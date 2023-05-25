@@ -15,5 +15,9 @@ public class HomeController{
     public String secured() {
         return "secured";
     }
+    @GetMapping("/authenticate")
+    public String authenticate(){
+        return "authenticated";
+    }
 
 }
