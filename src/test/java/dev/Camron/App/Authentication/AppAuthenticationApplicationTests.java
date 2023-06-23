@@ -8,6 +8,7 @@ class AppAuthenticationApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
